@@ -1294,7 +1294,7 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+  width: 60px;
   border-radius: 10px;
   border: 6px solid #fff;
   position: absolute;
@@ -1361,7 +1361,7 @@ section {
   margin-left: 5px;
   border-radius: 10px;
   border: 6px solid #fff;
-  position: absolute;
+  position: relative;
 }
 
 .testimonials .testimonial-item .play-btn {
